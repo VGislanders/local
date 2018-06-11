@@ -1,0 +1,13 @@
+body{
+
+	background-image: url('images/background2.jpg');
+}
+
+.green-text{
+
+	color: green 
+}
+
+div{
+	border:56px solid blue
+}
